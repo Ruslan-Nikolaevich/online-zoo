@@ -1,4 +1,4 @@
-alert("PopUP есть!!! перегрузите страницу !!! все будет")
+alert("Работает только страничка Donate. Адаптивная вестка до 320px")
 const styleLinkNavigation = document.querySelectorAll('.styleLinkNavigation');
 const styleDesigned = document.querySelector('.styleDesigned');
 const cardsPets = document.querySelectorAll('.cardsPets');
